@@ -1,0 +1,8 @@
+gTTs
+plyer
+pywhatkit
+feedparser
+playsound
+PyAudio
+SpeechRecognition
+psutil
