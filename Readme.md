@@ -1,8 +1,9 @@
 # Hakkında
-Mrspy
-Proje tamamıyla bana ait değil.
-Altyapı da belli başlı hatalar vardı, düzeltildi.
-Eksik olan bazı özellikler eklendi. Yanlış kodlar düzeltildi. Çeşitlilik sağlandı.
+Beta v1 <br>
+Mrspy <br>
+Proje tamamıyla bana ait değil. <br>
+Altyapı da belli başlı hatalar vardı, düzeltildi. <br>
+Eksik olan bazı özellikler eklendi. Yanlış kodlar düzeltildi. Çeşitlilik sağlandı. <br>
 
 # Kurulum
 
