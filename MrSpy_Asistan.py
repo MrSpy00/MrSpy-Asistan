@@ -438,7 +438,7 @@ def response(voice):
         dk = datetime.now().strftime("%M")
         user = record()
         user = user.lower()
-        if "bana" in user:
+        if "anne" in user:
             speak("Ne mesaj yollamak istiyorsun?")
             mesaj = record()
             if mesaj:
@@ -446,7 +446,7 @@ def response(voice):
                 onay = record()
                 onay = onay.lower()
                 if "evet" in onay:
-                    k.sendwhatmsg("+90 5318978015",mesaj, int(saat),int(dk))
+                    k.sendwhatmsg("+90 1235",mesaj, int(saat),int(dk))
                     speak("Mesaj gönderildi.")
                 if "hayır" in onay:
                     speak("İşlem iptal edildi.")
