@@ -16,5 +16,5 @@ Gerekli modülleri indirin ve çalıştırın. Herhangi bir sıkıntı yok, test
 
 Hata alırsanız iletişim adreslerimiz: <br>
 DC: MrSpyღ#9834 <br>
-Sunucu: https://discord.gg/k7j29WmVuR <br>
+Sunucu: https://discord.gg/2kcZzYFXQf <br>
 Alıntı altyapı: https://github.com/brainMinerYT
